@@ -1,0 +1,17 @@
+.paragraph {
+    background-color: rgb(223, 163, 163);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.font {
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(33, 33, 240);
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgb(163, 250, 163);
+}
